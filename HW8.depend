@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1383587501 source:/home/ryan/Documents/CS53 Fall/HW8/HW8/wordfunctions.cpp
+	"wordfunctions.h"
+
+1383587502 /home/ryan/Documents/CS53 Fall/HW8/HW8/wordfunctions.h
+	<iostream>
+	<fstream>
+	<cctype>
+	<cstring>
+	<cstdlib>
+
+1383587501 source:/home/ryan/Documents/CS53 Fall/HW8/HW8/main.cpp
+	<iostream>
+	<string>
+	"wordfunctions.h"
+	<fstream>
+
+1383587500 source:c:\users\ryan\documents\cs53 fall\hw8\hw8\main.cpp
+	<iostream>
+	<string>
+	"wordfunctions.h"
+	<fstream>
+
+1383587502 c:\users\ryan\documents\cs53 fall\hw8\hw8\wordfunctions.h
+	<iostream>
+	<fstream>
+	<cctype>
+	<cstring>
+	<cstdlib>
+
+1383946372 source:c:\users\ryan\documents\cs53 fall\hw8\hw8\wordfunctions.cpp
+	"wordfunctions.h"
+
